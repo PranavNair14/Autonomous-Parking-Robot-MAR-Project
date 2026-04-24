@@ -1,6 +1,4 @@
-# Autonomous-Parking-Robot-MAR-Project
-
-# Autonomous Parking Detection System using ROS 2 and Gazebo
+# Autonomous Parking Detection System using ROS 2 and Gazebo MAR Project
 
 ## Project Overview
 
